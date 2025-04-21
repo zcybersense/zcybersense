@@ -23,7 +23,7 @@ Currently working on:
 ## Recent Projects:
 - Cross-Chain Alert Protocol (GitHub repo soon)  
 - Cybersecurity Mini Tools (Port Scanner, Log Analyzer)  
-- LC Solicitors Network Setup (IPv4/IPv6, VLANs with Cisco)
+- LC Solicitors Network Setup (IPv4/IPv6, VLANs)
 
 ## I’m learning:
 - Smart contracts (Solidity & Rust basics)  
