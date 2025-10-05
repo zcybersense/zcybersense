@@ -1,4 +1,4 @@
-Hey, I’m Zaid (zcybersense)
+Hey, I’m Zaid
 
 Cybersecurity Graduate | AI-Driven Security | Pen Testing | SOC Analyst (Entry-Level)
 
