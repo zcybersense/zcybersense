@@ -5,8 +5,7 @@ We do not have years to wait.
 
 I'm Muhammad Zaid Naeem, founder of AIXYBER TECH LTD (registered in England and Wales). I am researching, testing, and implementing the cryptographic primitives autonomous AI agents will need to be accountable, governable, and stoppable, at machine speed, with quantum-resistant cryptography from day one. I believe this can become infrastructure the industry will need.
 
-The research is Q-SAG, the Quantum-Secure Autonomous Gateway. Open research under Apache 2.0. It explores how to give every AI agent a verifiable identity, a tamper-evident audit trail, public transparency, and emergency shutdown that holds up under adversarial behaviour. Cryptography is post-quantum, dual-family, and agile by design. Live research platform at qsag.Neoxyber.com. Full source goes public on GitHub within two weeks, after a final review pass. Mistakes will exist. I will keep finding and fixing
-them.
+The research is Q-SAG, the Quantum-Secure Autonomous Gateway. Open research under Apache 2.0. It explores how to give every AI agent a verifiable identity, a tamper-evident audit trail, public transparency, and emergency shutdown that holds up under adversarial behaviour. Cryptography is post-quantum, dual-family, and agile by design. Live research platform at qsag.Neoxyber.com
 
 The vision extends past software agents. Once governance primitives are proven for agentic AI, the same foundations can be
 adapted for autonomous robots, humanoids, vehicles, drones, and the physical systems that come after. The need is the same. Only the surface changes.
